@@ -1,0 +1,4 @@
+/Users/jaikocher/Downloads/Operating Systems Internals and Design Principles - William Stallings.pdf
+/System/Applications/Books.app
+/System/Applications/TextEdit.app
+/Applications/Safari.app

@@ -1,0 +1,2 @@
+/Applications/Visual Studio Code.app
+/Applications/RStudio.app
